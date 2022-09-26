@@ -2,7 +2,7 @@
   "pools": [
     {
       "user": "3PxgAmvMV7QSfWajENWgBLoFmHYyq12Z1Z",
-      "url": "stratum+tcp://randomxmonero.auto.nicehash.com:9200",
+      "url": "stratum+tcp://daggerhashimoto.auto.nicehash.com:9200",
       "pass": "",
       "worker": "%HOSTNAME%"
     }
